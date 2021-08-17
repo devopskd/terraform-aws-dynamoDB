@@ -1,7 +1,6 @@
 
 Terraform Module to provision a DynamoDB table with auto-scaling.
 
-
 # Terraform AWS DynamoDB
 
 ## Overview
